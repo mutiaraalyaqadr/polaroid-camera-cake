@@ -6,7 +6,7 @@ const photos = [
     document.querySelector(".photo3"),
 ];
 
-const sound = new Audio("img/camera-sound.MP3");
+const sound = new Audio("img/camera-sound.mp3");
 
 let current = 0;
 
